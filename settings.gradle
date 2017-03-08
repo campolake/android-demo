@@ -1,0 +1,1 @@
+include ':app', ':extraModules:MaterialDesign', ':extraModules:ApplicationFramework', ':extraModules:ZXingQRCode', ":extraModules:PhotoView", ":extraModules:PullToRefresh", ":extraModules:CordovaLib", ':extraModules:xwalk_core_library-22.52.561.4'

@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('xwalk_core_library-22.52.561.4.aar'))
